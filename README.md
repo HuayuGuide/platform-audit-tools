@@ -1,7 +1,7 @@
 # Platform Audit Tools — by HuayuGuide
 
 > Independent withdrawal verification utilities for Chinese-speaking users.  
-> 华语平台实测审计工具集 — [HuayuGuide.com](https://huayuguide.com) 独立审计系统核心组件
+> 华娱平台实测审计工具集 — [HuayuGuide.com](https://huayuguide.com) 独立审计系统核心组件
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![WordPress](https://img.shields.io/badge/WordPress-6.x-blue.svg)](https://wordpress.org)
