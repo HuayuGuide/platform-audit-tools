@@ -1,0 +1,29 @@
+{
+  "name": "huayuguide/platform-audit-tools",
+  "description": "Withdrawal time calculation and FX loss analysis utilities from HuayuGuide.com's platform audit system",
+  "keywords": [
+    "withdrawal", "audit", "forex", "fx-loss", "wordpress",
+    "online-platform", "risk-analysis", "chinese", "southeast-asia"
+  ],
+  "homepage": "https://huayuguide.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "HuayuGuide",
+      "homepage": "https://huayuguide.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "HuayuGuide\\AuditTools\\": "src/"
+    }
+  },
+  "support": {
+    "issues": "https://github.com/huayuguide/platform-audit-tools/issues",
+    "source": "https://github.com/huayuguide/platform-audit-tools"
+  }
+}
